@@ -1,0 +1,37 @@
+Min's Morph Extension
+======================
+
+Original project:
+  Min's Morph
+  Copyright (C) min01
+  https://github.com/min2222/Mins-Morph
+
+Fork / extension:
+  Copyright (C) 2026 AJ-Cat
+  https://github.com/AJ-Cat/Mins-Morph-Extension
+
+This project is a modified version of Min's Morph and is distributed under the
+GNU General Public License, version 3 (GPL-3.0-only). The original LICENSE file
+is kept unchanged in this repository.
+
+Notable modifications made in this fork:
+  - Java package renamed from com.min01.morph to com.ajcat.minsmorph.
+  - Added dynamic /morph data suggestions and improved entity data editing.
+  - Fixed morph model/entity-data synchronization and client-side model refreshes.
+  - Removed the vanilla 1024 max-health cap for morphs.
+  - Added automatic flying-morph detection while keeping config overrides.
+  - Improved mob effect immunity/inversion handling and incompatible-effect cleanup.
+  - Added targetless ability support through an invisible close-range fake target.
+  - Added support for Brain-based AI actions (activities/behaviors).
+  - Added camera distance scaling for large morph models in third-person view.
+
+This program is free software: you can redistribute it and/or modify it under
+the terms of the GNU General Public License as published by the Free Software
+Foundation, version 3 of the License.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with
+this program. If not, see <https://www.gnu.org/licenses/>.
