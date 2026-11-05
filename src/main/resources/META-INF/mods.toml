@@ -25,7 +25,7 @@ displayName="${mod_name}" #mandatory
 # A URL for the "homepage" for this mod, displayed in the mod UI
 displayURL="https://github.com/AJ-Cat/Mins-Morph-Extension" #optional
 # A file name (in the root of the mod JAR) containing a logo for display
-#logoFile="examplemod.png" #optional
+logoFile="logo.png" #optional
 # A text field displayed in the mod UI
 credits="Original Min's Morph by min01 (https://github.com/min2222/Mins-Morph). Fork/extension maintained by AJ-Cat." #optional
 # A text field displayed in the mod UI
