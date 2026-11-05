@@ -10,6 +10,8 @@ loaderVersion="[47,)" #mandatory This is typically bumped every Minecraft versio
 # The license for your mod. This project is a GPLv3 derivative of Min's Morph.
 # The complete license text is included as LICENSE in the mod jar and repository.
 license="${mod_license}"
+# Top-level logoFile is also read by some launchers (including PCL).
+logoFile="logo.png"
 # A URL to refer people to when problems occur with this mod
 issueTrackerURL="https://github.com/AJ-Cat/Mins-Morph-Extension/issues" #optional
 # A list of mods - how many allowed here is determined by the individual mod loader
