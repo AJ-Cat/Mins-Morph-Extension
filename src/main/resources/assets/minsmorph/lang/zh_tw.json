@@ -1,0 +1,16 @@
+{
+	"entity.minsmorph.fake_target": "假目標",
+	"key.categories.minsmorph": "Min's Morph 擴充版",
+	"key.minsmorph.open_menu": "開啟目標選單",
+	"key.minsmorph.trigger": "觸發選取目標",
+	"minsmorph.goalmenu.title": "目標選單",
+	"minsmorph.sync.waiting": "變形選項正在同步，請重試。",
+	"minsmorph.sync.stale": "變形選項已過期，已同步最新快照。",
+	"minsmorph.sync.invalid_selection": "目前變形的選擇無效。",
+	"minsmorph.sync.no_goal_selected": "沒有選擇有效的目標。",
+	"minsmorph.sync.invalid_owner": "無效的變形擁有者請求。",
+	"minsmorph.sync.missing_target": "變形目標尚未準備好，請重試。",
+	"minsmorph.sync.goal_failed": "安全執行目標失敗。",
+	"minsmorph.sync.unsupported_action": "目前生物不支援所選操作。",
+	"minsmorph.sync.adapter_failed": "動作適配器執行該操作失敗。"
+}
